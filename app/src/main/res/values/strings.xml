@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math Basic Recognition</string>
+    <string name="loading">Harap tunggu…</string>
+    <string name="pick_photo">Ambil Foto…</string>
+    <string name="pick_image">Ambil Gambar…</string>
+    <string name="error1">Something went wrong. please try again later</string>
+</resources>
